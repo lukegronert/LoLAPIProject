@@ -3,8 +3,12 @@ html {
 }
 
 header {
-  background-color: powderblue;
+  background-image: url(./img/Logo-1536x862.png);
+  background-size: contain;
+  background-position: center;
+  background-color: #ffffff;
   height: 50vh;
+  background-attachment: fixed;
 }
 
 .hero-text-box {
