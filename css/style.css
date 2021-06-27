@@ -1,0 +1,14 @@
+html {
+  background-color: gray;
+}
+
+header {
+  background-color: powderblue;
+  height: 50vh;
+}
+
+.hero-text-box {
+  color: rgb(153, 49, 153);
+  text-align: center;
+}
+
